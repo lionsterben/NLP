@@ -1,0 +1,15 @@
+data
+*.json
+__pycache__
+*.pyc
+experiments
+*.ipynb
+*.ipynb_checkpoints
+Embedding
+dataset
+*.tsv
+*.tgz
+corpus
+data_300d
+trash
+res
